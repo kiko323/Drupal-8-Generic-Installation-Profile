@@ -796,7 +796,7 @@ $settings['migrate_node_migrate_type_classic'] = FALSE;
 #   include $app_root . '/' . $site_path . '/settings.local.php';
 # }
 $databases['default']['default'] = array (
-  'database' => 'homestead',
+  'database' => 'homestead2',
   'username' => 'homestead',
   'password' => 'secret',
   'prefix' => '',
